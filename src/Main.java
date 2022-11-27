@@ -2,6 +2,7 @@ public class Main {
     public static void main(String[] args) {
         EmployeeList employeeList = new EmployeeList();
 
+
         employeeList.addEmployee("Ivanov Ivan", 10, 1);
         employeeList.addEmployee("Semenov Semen",20,1);
         employeeList.addEmployee("Petrov Petr",30,2);
@@ -15,7 +16,9 @@ public class Main {
 
         employeeList.printAllEmployears();
 
-         employeeList.sumSalary();
+         employeeList.getSumSalary();
+
+         employeeList.getMinSalary();
 
 
 
