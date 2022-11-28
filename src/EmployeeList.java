@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 public class EmployeeList {
-    private Employee[] Employears;
+    /*private Employee[] Employears;
     int id=0;
     public EmployeeList(){
         this.Employears = new Employee[10];
@@ -42,7 +42,7 @@ public class EmployeeList {
             min = emp.getSalary();
             }
         }System.out.println("Минимальная зарплата у сотрудника: "+ Employears[i] + min);
-    }
+    }*/
 }
 
 
