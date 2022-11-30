@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb9ba607-cbc7-44ec-a945-2cdcbd2ec082" name="Changes" comment="first commit">
+    <list default="true" id="eb9ba607-cbc7-44ec-a945-2cdcbd2ec082" name="Changes" comment="second commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EmployeeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmployeeList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +61,8 @@
       <workItem from="1669372064654" duration="31996000" />
       <workItem from="1669453230687" duration="3172000" />
       <workItem from="1669541957164" duration="16364000" />
-      <workItem from="1669662907660" duration="7367000" />
+      <workItem from="1669662907660" duration="8862000" />
+      <workItem from="1669781967804" duration="12041000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1669372170848</created>
@@ -79,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669372214049</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="second commit">
+      <created>1669671824133</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669671824134</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,7 +104,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
