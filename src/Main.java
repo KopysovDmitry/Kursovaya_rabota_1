@@ -48,13 +48,11 @@ public class Main {
         printAllEmployearsWhithLessSignalSalary();
         printAllEmployearsWhithMoreSignalSalary();
     }
-
     private static void printAllEmployears() {
         for (Employee employee : EMPLOYEES) {
             System.out.println(employee);
         }
     }
-
     private static int getSumSalary() {
         int sum = 0;
         for (Employee employee : EMPLOYEES) {
@@ -64,7 +62,6 @@ public class Main {
         }
         return sum;
     }
-
     public static Employee getMinSalaryEmpoloyee() {
         int min = Integer.MAX_VALUE;
         Employee employeeMinSalary = null;
@@ -76,7 +73,6 @@ public class Main {
         }
         return employeeMinSalary;
     }
-
     public static Employee getMaxSalaryEmpoloyee() {
         int max = Integer.MIN_VALUE;
         Employee employeeMaxSalary = null;
@@ -88,7 +84,6 @@ public class Main {
         }
         return employeeMaxSalary;
     }
-
     private static double getAverageSalary() {
         int count = 0;
         for (Employee employee : EMPLOYEES) {
@@ -101,13 +96,11 @@ public class Main {
         }
         return 0;
     }
-
     private static void printAllENames() {
         for (Employee employee : EMPLOYEES) {
             System.out.println(employee.getName());
         }
     }
-
     // средняя сложность
     private static void indexationSalary() {
         for (Employee employee : EMPLOYEES) {
@@ -117,7 +110,6 @@ public class Main {
             }
         }
     }
-
     public static Employee getMinSalaryEmpoloyeeDepart() {
         int min = Integer.MAX_VALUE;
         Employee employeeMinSalaryEmpoloyeeDepart = null;
